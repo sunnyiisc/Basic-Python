@@ -27,6 +27,7 @@ number: [1, 2, -8, -2, 0]
 number: [1, 2, -8, -2, 0]
 
 Python Code for Q4 [Click Here](q4.py)
+Python Code for Q4 Alternative with single for loop [Click Here](q4_alter.py)
 
 ### Q5
 (a) Write a Python script to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x)
