@@ -41,6 +41,8 @@ Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
 
 Python Code for Q5 [Click Here](q5.py)
 
+Python Code for Q5 Alternative with single for loop [Click Here](q5_alter.py)
+
 ### Q6
 (a)Write a Python program to add an item (i.e.any number) in a tuple
 * tuplex = (4, 6, 2, 8, 3, 1)
